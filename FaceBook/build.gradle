@@ -46,9 +46,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-//                groupId = "your.package.name"
-//                artifactId = "your_lib_name"
-//                version = 'lib_version'
+                groupId = "com.example.facebook"
+                artifactId = "FaceBook"
+                version = '1.0'
             }
         }
     }
