@@ -49,9 +49,8 @@ afterEvaluate {
 //                groupId = "your.package.name"
 //                artifactId = "your_lib_name"
 //                version = 'lib_version'
-                group='com.github.enggamar'
             }
         }
     }
 }
-//group = 'com.github.enggamar'
+group = 'com.github.enggamar'
