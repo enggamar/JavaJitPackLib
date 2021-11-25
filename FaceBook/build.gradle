@@ -45,7 +45,7 @@ afterEvaluate {
     publishing {
         publications {
             release(MavenPublication) {
-                groupId = "com.example.facebook"
+                groupId = "com.example"
                 artifactId = "Americana"
                 version = '1.0'
                 from components.release
